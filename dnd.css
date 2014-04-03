@@ -1,0 +1,12 @@
+#dropzone {
+	width: 320px;
+	height: 240px;
+	/*background-color: pink;*/
+	text-align: center;
+	line-height: 240px;
+	border: 2px dashed gray;
+}
+
+#preview {
+	display: none;
+}
